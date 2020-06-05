@@ -55,7 +55,7 @@ A list of my everday essential tools - my personal stack.
 - [Lantern](https://lantern.io/en_US/index.html)
 - Adobe Acrobat
 - [Numi](https://numi.app/)
-- [Command E][https://getcommande.com/]
+- [Command E](https://getcommande.com/)
 
 **Creative**
 
