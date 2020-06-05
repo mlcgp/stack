@@ -1,6 +1,6 @@
-# Workflow
+# Stack
 
-A list of my essential applications, websites and utilities.
+A list of my everday essential tools - my personal stack.
 
 
 
@@ -8,13 +8,11 @@ A list of my essential applications, websites and utilities.
 
 **Productivity**
 
-- [Evernote](https://evernote.com/)
-- Apple Notes
+- Notes
 - [Roam Research](https://roamresearch.com/)
 - [Notion](https://www.notion.so/)
 - [Bear](https://bear.app/)
 - [Google Drive](https://www.google.com/drive/)
-
 - Microsoft Excel
 - Microsoft Word
 - Microsoft PowerPoint
@@ -26,6 +24,8 @@ A list of my essential applications, websites and utilities.
 - [Chrome](https://www.google.com/chrome/)
 - [Spotify](https://www.spotify.com/ca-en/)
 - [Spark](https://sparkmailapp.com/)
+- [Workflowy](https://workflowy.com/)
+- [Done](https://apps.apple.com/us/app/done-a-simple-habit-tracker/id1103961876)
 
 **Developer**
 
@@ -55,6 +55,7 @@ A list of my essential applications, websites and utilities.
 - [Lantern](https://lantern.io/en_US/index.html)
 - Adobe Acrobat
 - [Numi](https://numi.app/)
+- [Command E][https://getcommande.com/]
 
 **Creative**
 
@@ -88,6 +89,7 @@ A list of my essential applications, websites and utilities.
 **Web Apps**
 
 - [Hunter](https://hunter.io/)
+- [Clearbit Connect](https://chrome.google.com/webstore/detail/clearbit-connect-supercha/pmnhcgfcafcnkbengdcanjablaabjplo)
 - [Airtable](https://airtable.com/)
 - [Smallpdf](https://smallpdf.com/)
 - [Full Page Screen Capture](https://gofullpage.com/)
@@ -124,7 +126,9 @@ A list of my essential applications, websites and utilities.
   - [WebAnalyticsProject](https://github.com/lin882/WebAnalyticsProject)
   - [SECDataTools](https://github.com/tniedbala/SECDataTools)
   - [SEC Employee Count Information](https://github.com/healthgradient/sec_employee_information_extraction)
-- **Acquisitions Data**
+  - [novisto](https://novisto.com/#novisto-platform)
+  - [magnifi](https://www.magnifi.com/)
+- **Acquisitions/Exit Data**
   - [Unicorn Nest](https://unicorn-nest.com/home)
   - [AcquiredBy](https://acquiredby.co/)
   - [crunchbase](https://www.crunchbase.com)
@@ -133,7 +137,7 @@ A list of my essential applications, websites and utilities.
   - [FundingPath](https://fundingpath.co/)
   - [YCombinator Database](https://www.ycdb.co/)
 
-**Data Visualization**
+**DataVis**
 
 - [AnyChart](https://www.anychart.com/)
 - [datavisual](https://datavisu.al/)
