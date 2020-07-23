@@ -6,12 +6,12 @@ A list of my everday tools - my personal stack.
 
 **Productivity**
 
-- ****Basically everything**** - [Roam Research](https://roamresearch.com/)
+- **Basically everything** - [Roam Research](https://roamresearch.com/)
 - **Cloud** - [Google Drive](https://www.google.com/drive/)
 - **Thought Capture** - [Drafts](https://getdrafts.com/)
 - **Quick notes** - Apple Notes
-- **Markdown** - [Typora](https://typora.io/)
-- **Markdown** - [Mark Text]([Mark Text](https://marktext.app/))
+- **Markdown Primary** - [Mark Text]([Mark Text](https://marktext.app/))
+- **Markdown Secondary** - [Typora](https://typora.io/)
 - **Primary browser** - [Chrome](https://www.google.com/chrome/)
 - **Secondary browser** - [Firefox](https://www.mozilla.org/en-CA/firefox/new/)
 - **Sound** - [Spotify](https://www.spotify.com/ca-en/)
@@ -79,7 +79,7 @@ A list of my everday tools - my personal stack.
 - [DuckDuckGo Privacy Essentials](https://chrome.google.com/webstore/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg)
 - [Decentraleyes](https://decentraleyes.org/)
 - [Pocket](https://getpocket.com/)
-- [Saka Key]([GitHub - lusakasa/saka-key: A keyboard interface to the web](https://github.com/lusakasa/saka-key)
+- [Saka Key]([GitHub - lusakasa/saka-key: A keyboard interface to the web](https://github.com/lusakasa/saka-key))
 - [Nano Adblocker]([Nano Adblocker - Chrome Web Store](https://chrome.google.com/webstore/detail/nano-adblocker/gabbbocakeomblphkmmnoamkioajlkfo))
 - [Roam Toolkit](https://chrome.google.com/webstore/detail/roam-toolkit/ebckolanhdjilblnkcgcgifaikppnhba)
 
@@ -89,3 +89,4 @@ A list of my everday tools - my personal stack.
 - [Clearbit Connect](https://chrome.google.com/webstore/detail/clearbit-connect-supercha/pmnhcgfcafcnkbengdcanjablaabjplo)
 - [Airtable](https://airtable.com/)
 - [Smallpdf](https://smallpdf.com/)
+
