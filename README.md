@@ -10,7 +10,7 @@ A list of my everday tools - my personal stack.
 - **Cloud** - [Google Drive](https://www.google.com/drive/)
 - **Thought Capture** - [Drafts](https://getdrafts.com/)
 - **Quick notes** - Apple Notes
-- **Markdown Primary** - [Mark Text]([Mark Text](https://marktext.app/))
+- **Markdown Primary** - [Mark Text](https://marktext.app/)
 - **Markdown Secondary** - [Typora](https://typora.io/)
 - **Primary browser** - [Chrome](https://www.google.com/chrome/)
 - **Secondary browser** - [Firefox](https://www.mozilla.org/en-CA/firefox/new/)
@@ -25,7 +25,7 @@ A list of my everday tools - my personal stack.
 * **Quick look plugin** - [Glance](https://github.com/samuelmeuli/glance)
 * **Menubar sprint timer** - [Sprints](https://sprintcount.com/)
 * **App command prompt** - [Paletro](https://appmakes.io/paletro)
-* **Text Snippets** - [Espanso]([espanso - Cross-platform Text Expander written in Rust](https://espanso.org/))
+* **Text Snippets** - [Espanso](https://espanso.org/)
 
 **Developer**
 
@@ -38,7 +38,7 @@ A list of my everday tools - my personal stack.
 - **Postgres App** - [Postgres.app](https://postgresapp.com/)
 - **PostgreSQL GUI** - [PSequel](https://www.psequel.com/)
 - **API Testing** - [Postman](https://www.postman.com/)
-- **Snippet Manager** - [massCode]([massCode](https://masscode.io/))
+- **Snippet Manager** - [massCode](https://masscode.io/)
 
 **Utility**
 
@@ -79,8 +79,8 @@ A list of my everday tools - my personal stack.
 - [DuckDuckGo Privacy Essentials](https://chrome.google.com/webstore/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg)
 - [Decentraleyes](https://decentraleyes.org/)
 - [Pocket](https://getpocket.com/)
-- [Saka Key]([GitHub - lusakasa/saka-key: A keyboard interface to the web](https://github.com/lusakasa/saka-key))
-- [Nano Adblocker]([Nano Adblocker - Chrome Web Store](https://chrome.google.com/webstore/detail/nano-adblocker/gabbbocakeomblphkmmnoamkioajlkfo))
+- [Saka Key](https://github.com/lusakasa/saka-key)
+- [Nano Adblocker](https://chrome.google.com/webstore/detail/nano-adblocker/gabbbocakeomblphkmmnoamkioajlkfo)
 - [Roam Toolkit](https://chrome.google.com/webstore/detail/roam-toolkit/ebckolanhdjilblnkcgcgifaikppnhba)
 
 **Web Apps**
@@ -89,4 +89,3 @@ A list of my everday tools - my personal stack.
 - [Clearbit Connect](https://chrome.google.com/webstore/detail/clearbit-connect-supercha/pmnhcgfcafcnkbengdcanjablaabjplo)
 - [Airtable](https://airtable.com/)
 - [Smallpdf](https://smallpdf.com/)
-
