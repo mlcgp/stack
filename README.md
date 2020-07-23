@@ -2,35 +2,30 @@
 
 A list of my everday tools - my personal stack.
 
-
-
 ### Mac Apps
 
 **Productivity**
 
-- **Research** - [Roam Research](https://roamresearch.com/)
-- **Brainstorming** - [Bear](https://bear.app/)
+- ****Basically everything**** - [Roam Research](https://roamresearch.com/)
 - **Cloud** - [Google Drive](https://www.google.com/drive/)
-- **Todo** - [Todoist](https://todoist.com/)
+- **Thought Capture** - [Drafts](https://getdrafts.com/)
 - **Quick notes** - Apple Notes
-- **Dev notes** - [Memo](https://usememo.com/)
-- **Task notes** - [Workflowy](https://workflowy.com/)
-- **Workflowy backups** - [Dropbox](https://www.dropbox.com/)
 - **Markdown** - [Typora](https://typora.io/)
-- **Primary browser** - [Firefox](https://www.mozilla.org/en-CA/firefox/new/)
-- **Secondary browser** - [Chrome](https://www.google.com/chrome/)
+- **Markdown** - [Mark Text]([Mark Text](https://marktext.app/)
+- **Primary browser** - [Chrome](https://www.google.com/chrome/)
+- **Secondary browser** - [Firefox](https://www.mozilla.org/en-CA/firefox/new/)
 - **Sound** - [Spotify](https://www.spotify.com/ca-en/)
 - **Email** - [Spark](https://sparkmailapp.com/)
-- **Habits** - [Done](https://apps.apple.com/us/app/done-a-simple-habit-tracker/id1103961876)
-- **Work - **Microsoft Suite
+- **Work** - Microsoft Suite
 
 **Shortcuts**
 
 * **Search cloud files** - [Command E](https://getcommande.com/)
 * **Launcher** - [Alfred](https://www.alfredapp.com/)
 * **Quick look plugin** - [Glance](https://github.com/samuelmeuli/glance)
-* **Menubar pomodoro timer** - [Sprints](https://sprintcount.com/)
+* **Menubar sprint timer** - [Sprints](https://sprintcount.com/)
 * **App command prompt** - [Paletro](https://appmakes.io/paletro)
+* **Text Snippets** - [Espanso]([espanso - Cross-platform Text Expander written in Rust](https://espanso.org/)
 
 **Developer**
 
@@ -40,7 +35,10 @@ A list of my everday tools - my personal stack.
 - **Npm package manager** - [ndm](https://www.npmjs.com/package/ndm)
 - **Homebrew package manager** - [Cakebrew](https://www.cakebrew.com/)
 - **SQL editor / Database manager** - [Beekeeper Studio](https://www.beekeeperstudio.io/)
-- **API client** - [Postman](https://www.postman.com/)
+- **Postgres App** - [Postgres.app](https://postgresapp.com/)
+- **PostgreSQL GUI** - [PSequel](https://www.psequel.com/)
+- **API Testing** - [Postman](https://www.postman.com/)
+- **Snippet Manager** - [massCode]([massCode](https://masscode.io/)
 
 **Utility**
 
@@ -58,6 +56,7 @@ A list of my everday tools - my personal stack.
 - **Clipboard manager** - [Maccy](https://maccy.app/)
 - Adobe Acrobat
 - **Calculator app** - [Numi](https://numi.app/)
+- **Menubar Organizer** - [Vanilla]()
 
 **Creative**
 
@@ -77,11 +76,12 @@ A list of my everday tools - my personal stack.
 
 - [Toast](https://dotoast.com/)
 - [LastPass](https://www.lastpass.com/)
-- [uBlock Origin](https://ublock.org/)
+- [DuckDuckGo Privacy Essentials](https://chrome.google.com/webstore/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg)
 - [Decentraleyes](https://decentraleyes.org/)
-- [Grammarly](https://app.grammarly.com/)
-- [Bypass Paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome)
 - [Pocket](https://getpocket.com/)
+- [Saka Key]([GitHub - lusakasa/saka-key: A keyboard interface to the web](https://github.com/lusakasa/saka-key)
+- [Nano Adblocker]([Nano Adblocker - Chrome Web Store](https://chrome.google.com/webstore/detail/nano-adblocker/gabbbocakeomblphkmmnoamkioajlkfo)
+- [Roam Toolkit](https://chrome.google.com/webstore/detail/roam-toolkit/ebckolanhdjilblnkcgcgifaikppnhba)
 
 **Web Apps**
 
