@@ -11,7 +11,7 @@ A list of my everday tools - my personal stack.
 - **Thought Capture** - [Drafts](https://getdrafts.com/)
 - **Quick notes** - Apple Notes
 - **Markdown** - [Typora](https://typora.io/)
-- **Markdown** - [Mark Text]([Mark Text](https://marktext.app/)
+- **Markdown** - [Mark Text]([Mark Text](https://marktext.app/))
 - **Primary browser** - [Chrome](https://www.google.com/chrome/)
 - **Secondary browser** - [Firefox](https://www.mozilla.org/en-CA/firefox/new/)
 - **Sound** - [Spotify](https://www.spotify.com/ca-en/)
@@ -25,7 +25,7 @@ A list of my everday tools - my personal stack.
 * **Quick look plugin** - [Glance](https://github.com/samuelmeuli/glance)
 * **Menubar sprint timer** - [Sprints](https://sprintcount.com/)
 * **App command prompt** - [Paletro](https://appmakes.io/paletro)
-* **Text Snippets** - [Espanso]([espanso - Cross-platform Text Expander written in Rust](https://espanso.org/)
+* **Text Snippets** - [Espanso]([espanso - Cross-platform Text Expander written in Rust](https://espanso.org/))
 
 **Developer**
 
@@ -38,7 +38,7 @@ A list of my everday tools - my personal stack.
 - **Postgres App** - [Postgres.app](https://postgresapp.com/)
 - **PostgreSQL GUI** - [PSequel](https://www.psequel.com/)
 - **API Testing** - [Postman](https://www.postman.com/)
-- **Snippet Manager** - [massCode]([massCode](https://masscode.io/)
+- **Snippet Manager** - [massCode]([massCode](https://masscode.io/))
 
 **Utility**
 
@@ -80,7 +80,7 @@ A list of my everday tools - my personal stack.
 - [Decentraleyes](https://decentraleyes.org/)
 - [Pocket](https://getpocket.com/)
 - [Saka Key]([GitHub - lusakasa/saka-key: A keyboard interface to the web](https://github.com/lusakasa/saka-key)
-- [Nano Adblocker]([Nano Adblocker - Chrome Web Store](https://chrome.google.com/webstore/detail/nano-adblocker/gabbbocakeomblphkmmnoamkioajlkfo)
+- [Nano Adblocker]([Nano Adblocker - Chrome Web Store](https://chrome.google.com/webstore/detail/nano-adblocker/gabbbocakeomblphkmmnoamkioajlkfo))
 - [Roam Toolkit](https://chrome.google.com/webstore/detail/roam-toolkit/ebckolanhdjilblnkcgcgifaikppnhba)
 
 **Web Apps**
